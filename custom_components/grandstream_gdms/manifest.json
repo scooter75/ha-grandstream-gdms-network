@@ -1,0 +1,18 @@
+{
+  "domain": "grandstream_gdms",
+  "name": "Grandstream GDMS Networking",
+  "categories": [
+    "network"
+  ],
+  "codeowners": [
+    "@scooter75"
+  ],
+  "config_flow": true,
+  "documentation": "https://github.com/scooter75/ha-grandstream-gdms",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/scooter75/ha-grandstream-gdms/issues",
+  "requirements": [
+    "aiohttp>=3.9.0"
+  ],
+  "version": "1.0.0"
+}
